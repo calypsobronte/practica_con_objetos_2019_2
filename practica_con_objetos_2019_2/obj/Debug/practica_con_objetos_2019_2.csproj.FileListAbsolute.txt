@@ -1,0 +1,10 @@
+C:\Users\calypsobronte\source\repos\practica_con_objetos_2019_2\practica_con_objetos_2019_2\bin\Debug\practica_con_objetos_2019_2.exe.config
+C:\Users\calypsobronte\source\repos\practica_con_objetos_2019_2\practica_con_objetos_2019_2\bin\Debug\practica_con_objetos_2019_2.exe
+C:\Users\calypsobronte\source\repos\practica_con_objetos_2019_2\practica_con_objetos_2019_2\bin\Debug\practica_con_objetos_2019_2.pdb
+C:\Users\calypsobronte\source\repos\practica_con_objetos_2019_2\practica_con_objetos_2019_2\obj\Debug\practica_con_objetos_2019_2.csprojAssemblyReference.cache
+C:\Users\calypsobronte\source\repos\practica_con_objetos_2019_2\practica_con_objetos_2019_2\obj\Debug\practica_con_objetos_2019_2.FrmNomina.resources
+C:\Users\calypsobronte\source\repos\practica_con_objetos_2019_2\practica_con_objetos_2019_2\obj\Debug\practica_con_objetos_2019_2.Properties.Resources.resources
+C:\Users\calypsobronte\source\repos\practica_con_objetos_2019_2\practica_con_objetos_2019_2\obj\Debug\practica_con_objetos_2019_2.csproj.GenerateResource.cache
+C:\Users\calypsobronte\source\repos\practica_con_objetos_2019_2\practica_con_objetos_2019_2\obj\Debug\practica_con_objetos_2019_2.csproj.CoreCompileInputs.cache
+C:\Users\calypsobronte\source\repos\practica_con_objetos_2019_2\practica_con_objetos_2019_2\obj\Debug\practica_con_objetos_2019_2.exe
+C:\Users\calypsobronte\source\repos\practica_con_objetos_2019_2\practica_con_objetos_2019_2\obj\Debug\practica_con_objetos_2019_2.pdb
